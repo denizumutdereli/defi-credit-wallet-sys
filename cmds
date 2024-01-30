@@ -1,0 +1,3 @@
+npm init -y
+npx hardhat init
+npx hardhat run --network sepolia scripts/deploy.js
